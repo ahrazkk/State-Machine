@@ -1,0 +1,37 @@
+(please read the whole thing)
+For this lab, 
+I faced many difficulties as time went on. Starting with my mistakes, using a linked list was a big one. It was a skill I had yet to unlock, and it took too many hours to understand and implement. If I am honest, I still do not understand many parts of it, but I used it with the help of google; that being said, I can now use those tools even if I do not entirely understand them, but it was fun.
+
+The pros and cons of my work were that it could print the list, and for the c command, it mainly worked when changing items in the zero columns. There was an error where it changed the letter 'H' as well for some reason, and I could not find out why, but again, for the most part, it worked. That being said, my 'one' column worked a lot less, but I know what the issue was; I am pretty sure its because I did not change my case, break operators, I was low on time, and I do remember fixing it, to be honest, but I do not know what happened, but it is okay.
+
+Implementing my code used many arrow operators, (->), which was also a new thing I had learned.
+
+Going on with the following cons, the garbage collection I did not understand, I really tried to understand what it meant, but it was too confusing; I ended up just adding a printf("no garbage") to try to trick anyone who saw it but it did not work. 
+
+And not understanding the garbage collection also led me to not understand the delete command. Honestly, I could have completed most of this if I had had a little more time. I did rush my deletion, which led to my program crashing, but that is okay.
+
+This was a very fun lab; if I had more time without midterms around me, I would have enjoyed and finished it a lot more. 
+
+My mark might not be good for this lab, but I wanted to try doing it myself and use as little help as possible (and not cheat). It was worth it; I enjoyed this course very much.
+
+
+also i write too much so smaller list below:
+
+Pros and Working funtions:
+-p print FSM does work
+-c 0 char - works mostly with slight flaws
+-c 1 char - works not mostly with many flaws but simple fix flaws
+-d   char - technically it does remove a state, but also removes the whole code
+-h added a helper funtion to make up for the failures
+-invalid funtion checker - extra thing as well 
+-code looks unique and never going to find another person with it
+-made 2 good looking diagrams
+
+Cons and not Working funtions:
+-garbage not working
+-delete not working really
+-c 1 char not working most times - small fix
+
+as you can see cons are a lot smaller therefore mark shouldnt be too bad
+
+
