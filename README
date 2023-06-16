@@ -10,10 +10,6 @@ Going on with the following cons, the garbage collection I did not understand, I
 
 And not understanding the garbage collection also led me to not understand the delete command. Honestly, I could have completed most of this if I had had a little more time. I did rush my deletion, which led to my program crashing, but that is okay.
 
-This was a very fun lab; if I had more time without midterms around me, I would have enjoyed and finished it a lot more. 
-
-My mark might not be good for this lab, but I wanted to try doing it myself and use as little help as possible (and not cheat). It was worth it; I enjoyed this course very much.
-
 
 also i write too much so smaller list below:
 
@@ -25,13 +21,7 @@ Pros and Working funtions:
 -h added a helper funtion to make up for the failures
 -invalid funtion checker - extra thing as well 
 -code looks unique and never going to find another person with it
--made 2 good looking diagrams
+-made 2 diagrams
 
-Cons and not Working funtions:
--garbage not working
--delete not working really
--c 1 char not working most times - small fix
-
-as you can see cons are a lot smaller therefore mark shouldnt be too bad
 
 
